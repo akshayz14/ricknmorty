@@ -27,5 +27,4 @@ The app is built using Clean Architecture principles to ensure a separation of c
 
 ## Screens
 
-![Screenshot_20240523_115817](https://github.com/akshayz14/ricknmorty/assets/18732628/3097ad65-1f4b-473a-be11-d2e502f307b5)
-![Screenshot_20240523_115757](https://github.com/akshayz14/ricknmorty/assets/18732628/00fc5a35-edba-416c-b8f2-323b7fed093d)
+![1_rnm](https://github.com/akshayz14/ricknmorty/assets/18732628/8eb6cb9f-e962-4e37-8c53-b32875719e13)
