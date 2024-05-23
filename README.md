@@ -26,5 +26,4 @@ The app is built using Clean Architecture principles to ensure a separation of c
 - **Repository Pattern**: Abstracts the data sources and provides a clean API for data access.
 
 ## Screens
-
-![1_rnm](https://github.com/akshayz14/ricknmorty/assets/18732628/8eb6cb9f-e962-4e37-8c53-b32875719e13)
+![Screenshot_20240523_115757](https://github.com/akshayz14/ricknmorty/assets/18732628/ccc4a16e-dfce-4d39-a5f2-3367a917ae2f) 
