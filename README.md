@@ -24,3 +24,8 @@ The app is built using Clean Architecture principles to ensure a separation of c
 - **Retrofit**: HTTP client for network operations.
 - **StateFlow**: State management for reactive UI updates.
 - **Repository Pattern**: Abstracts the data sources and provides a clean API for data access.
+
+## Screens
+
+![Screenshot_20240523_115817](https://github.com/akshayz14/ricknmorty/assets/18732628/3097ad65-1f4b-473a-be11-d2e502f307b5)
+![Screenshot_20240523_115757](https://github.com/akshayz14/ricknmorty/assets/18732628/00fc5a35-edba-416c-b8f2-323b7fed093d)
